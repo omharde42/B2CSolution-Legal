@@ -42,13 +42,16 @@ Standardizing project execution ensures high code quality, predictability in del
 - **Feedback Consolidation:** Client provides consolidated feedback. Minor bug fixes within scope are addressed; out-of-scope requests trigger a formal Change Order.
 
 ### Stage 4: Acceptance & Final Sign-Off
-- **Milestone Acceptance:** Client confirms acceptance of the deliverable upon satisfactory review.
-- **Final Invoicing:** Final invoice issued in accordance with `business/INVOICE_TERMS.md`.
+- **Review Period & Criteria:** The Client has five business days after delivery and demonstration to assess the deliverable against the agreed scope, documented functional requirements, and acceptance tests in the applicable quotation or Statement of Work.
+- **Milestone Acceptance:** The Client accepts the deliverable by written sign-off or is deemed to accept it when the review period expires without a written rejection. Any rejection must identify reproducible, documented defects within the agreed scope that fail the acceptance criteria; out-of-scope changes are handled through Change Control Management.
+- **Nonresponse Escalation:** Before deemed acceptance, B2C Solution will send a reminder and escalate the pending review to the designated Client Representative.
+- **Final Invoicing:** After written or deemed acceptance, the final invoice is issued in accordance with `business/INVOICE_TERMS.md`, and launch progresses after final payment verification.
 
 ### Stage 5: Production Deployment & Transfer
 - **Final Payment Verification:** Production deployment proceeds upon settlement of outstanding invoices.
 - **Production Launch:** Deployment to client's live hosting environment or domain.
-- **Deliverable Transfer:** Transfer of production credentials, documentation, or repositories as per `legal/CLIENT_SERVICE_AGREEMENT.md`.
+- **Credential Handover:** Before transferring production credentials, B2C Solution verifies the recipient's identity and authorization, scopes access to the least privilege required, and uses only the approved secure-transfer process—never email, Slack, or messaging groups. The handover record must define permitted retention and deletion requirements, and the Client must rotate transferred credentials immediately after handover.
+- **Deliverable Transfer:** Transfer of documentation or repositories as per `legal/CLIENT_SERVICE_AGREEMENT.md`.
 
 ### Stage 6: Post-Launch Warranty & Support
 - **30-Day Warranty:** 30-day warranty period for bug fixes within the original project scope.

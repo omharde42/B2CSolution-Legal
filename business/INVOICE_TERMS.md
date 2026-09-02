@@ -31,7 +31,7 @@ This document defines the standard invoicing procedures, payment schedules, acce
 
 Unless explicitly specified otherwise in a signed `legal/CLIENT_SERVICE_AGREEMENT.md` or `business/QUOTATION_TEMPLATE.md`, B2C Solution operates on the following milestone invoicing structure:
 
-1. **Advance Deposit (40%):** Invoiced upon project acceptance. Work begins only after the initial advance payment is received.
+1. **Advance Deposit (40%):** Invoiced upon quotation acceptance and contract signing. Work begins only after the initial advance payment is received.
 2. **Milestone Progress Payment (40%):** Invoiced upon delivery and demonstration of the project's primary staging deliverable or beta milestone.
 3. **Final Balance (20%):** Invoiced upon completion of testing and prior to final production deployment, source code transfer, or domain launch.
 
@@ -76,7 +76,7 @@ Specific banking details and payment links are provided on official B2C Solution
 
 ## 8. Third-Party Costs
 
-Third-party costs (such as domain registration, cloud hosting, premium API subscriptions, or paid software licenses) incurred by B2C Solution on behalf of the Client are non-refundable and invoiced separately or included as designated pass-through items.
+Qualifying third-party costs (such as domain registration, cloud hosting, premium API subscriptions, or paid software licenses) incurred by B2C Solution on behalf of the Client are invoiced separately or included as designated pass-through items. Refund eligibility for those costs is determined under `legal/REFUND_AND_CANCELLATION_POLICY.md`, the applicable agreement terms, and applicable law.
 
 ---
 

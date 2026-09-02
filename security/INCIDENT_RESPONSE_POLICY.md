@@ -53,6 +53,7 @@ B2C Solution follows a four-stage incident response process:
 - **Initial Assessment:** Leadership assesses scope, impact, and severity level.
 
 ### Stage 2: Containment & Eradication
+- **Evidence Preservation:** Before any destructive containment or eradication step, the Incident Lead must assign an evidence owner, preserve relevant logs, snapshots, system images, and other incident evidence, and record the secure retention location in the incident record.
 - **Immediate Containment:**
   - Revoke compromised credentials or API keys.
   - Isolate affected servers, staging environments, or repositories.
@@ -83,7 +84,7 @@ During a security incident, primary responsibility rests with B2C Solution leade
 
 ## 6. Client and External Communication
 
-- **Client Notification:** If a high-severity incident impacts client data or dedicated deliverables, B2C Solution will notify affected clients via official email without unreasonable delay.
+- **Client Notification:** For an incident affecting client data or dedicated deliverables, the Incident Lead owns and documents the notification decision and applicable deadline. Qualified legal counsel must review the proposed notice's recipients, content, and timing, and the Incident Lead must approve it before the Co-Founder sends it via official email no later than the earliest applicable legal or contractual notification deadline.
 - **Public Advisory:** Coordinated disclosures or public advisories will follow the guidelines set out in `security/RESPONSIBLE_DISCLOSURE.md`.
 
 ---

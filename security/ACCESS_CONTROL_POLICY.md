@@ -65,7 +65,7 @@ To maintain account security, all personnel and contributors with access to B2C 
 
 - **Public Repositories:** Maintained for public documentation, legal frameworks, and open-source projects. Write access is restricted to authorized maintainers.
 - **Private Repositories:** Client projects and proprietary source code are maintained in private repositories. Access is granted specifically to assigned team members.
-- **Branch Protection:** Main/production branches should utilize branch protection rules requiring code review or pull request approval before merging where practical.
+- **Branch Protection:** Main and production branches must use branch protection wherever the platform supports it, including mandatory code review or pull request approval before merging. An emergency bypass must be approved and documented, limited to the duration of the emergency, followed by review of the change by the next business day, and removed immediately when the emergency ends.
 
 ---
 
@@ -84,7 +84,7 @@ When a new team member, contractor, or contributor joins B2C Solution:
 
 When a contributor or team member leaves B2C Solution or changes roles:
 
-1. Access to GitHub repositories, cloud infrastructure, and business tools must be revoked immediately or within 24 hours of departure.
+1. Privileged access to GitHub repositories, cloud infrastructure, and administrative accounts must be revoked immediately upon departure. A lower-risk, non-privileged account may be revoked within 24 hours only under a documented exception approved by the Founder or Co-Founder that identifies an owner, deadline, and compensating controls.
 2. Any shared credentials or SSH keys associated with the individual must be rotated.
 3. Access rights are reviewed to ensure no residual access remains.
 
@@ -99,7 +99,7 @@ When a contributor or team member leaves B2C Solution or changes roles:
 
 ## 10. Access Review and Monitoring
 
-- Access lists for GitHub repositories, hosting environments, and core tools will be reviewed periodically (at least bi-annually or as team composition changes).
+- Access lists for GitHub repositories, hosting environments, and core tools will be reviewed periodically (at least twice per year or as team composition changes).
 - Suspicious login attempts or unauthorized access attempts must be reported according to `security/INCIDENT_RESPONSE_POLICY.md`.
 
 ---

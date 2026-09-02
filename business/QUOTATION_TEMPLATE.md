@@ -44,7 +44,7 @@
 | 1.0 | Requirement Analysis & UI/UX Design Framework | [X Days / Weeks] | [Amount] |
 | 2.0 | Frontend & Backend Development | [X Days / Weeks] | [Amount] |
 | 3.0 | Integration, Testing & Deployment | [X Days / Weeks] | [Amount] |
-| 4.0 | Post-Launch Warranty & Support (30 Days) | Included | [Amount / Included] |
+| 4.0 | Post-Launch In-Scope Bug-Fix Warranty (30 Days); ongoing maintenance requires a separate arrangement | Included | [Amount / Included] |
 | **Total** | | | **[Total Amount]** |
 
 ---
@@ -55,7 +55,7 @@ Payments are structured based on project milestones:
 
 - **Advance / Deposit:** 40% upon quotation acceptance and contract signing before work commences.
 - **Mid-Project Milestone:** 40% upon completion and demonstration of beta/staging deliverable.
-- **Final Milestone:** 20% upon final acceptance, testing, and transfer to production environment.
+- **Final Milestone:** 20% after final acceptance and testing, due before production deployment, source code transfer, or domain launch.
 
 ---
 

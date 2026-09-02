@@ -40,7 +40,7 @@ Conflicts may be:
 
 ## 4. Key Leadership & Administrative Review
 
-Disclosures and conflict reviews are handled by B2C Solution leadership:
+Routine disclosures and conflict reviews are handled by B2C Solution leadership, subject to the independent escalation process in Section 6:
 
 - **Founder:** Om Harde (`omharde42-dev`)
 - **Co-Founder:** Purvesh Bhadale
@@ -64,9 +64,11 @@ Examples of potential conflicts of interest include:
 
 ## 6. Disclosure Obligations and Procedure
 
-1. **Mandatory Disclosure:** Individuals must promptly disclose any actual, potential, or perceived conflict of interest to the Founder or Co-Founder in writing at `b2csolution2436@gmail.com`.
-2. **Timing:** Disclosures should be made as soon as the conflict becomes known, or prior to entering into a new external engagement or transaction.
-3. **Review & Determination:** Leadership will review the disclosure to determine whether a material conflict exists and what mitigation steps are required.
+1. **Mandatory Disclosure:** Individuals must promptly disclose any actual, potential, or perceived conflict of interest to the Founder or Co-Founder in writing at `b2csolution2436@gmail.com`, unless the independent escalation process below applies.
+2. **Confidential Escalation Channel:** A disclosure may be submitted directly to the designated independent reviewer or retained external counsel through B2C Solution's restricted-access conflict-reporting channel. Access is limited to that reviewer or counsel, and reports must not be sent through the general business inbox.
+3. **Leadership Conflicts:** A disclosure involving the Founder or Co-Founder must bypass the person involved and be submitted through the confidential escalation channel. An independent reviewer with no involvement or financial interest in the matter, or retained external counsel, must review the disclosure and determine the required mitigation without participation by the person involved.
+4. **Timing:** Disclosures should be made as soon as the conflict becomes known, or prior to entering into a new external engagement or transaction.
+5. **Review & Determination:** For routine disclosures, non-conflicted leadership will determine whether a material conflict exists and what mitigation is required. Independent escalations follow the determination process in item 3.
 
 ---
 

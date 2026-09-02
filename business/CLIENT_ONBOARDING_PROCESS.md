@@ -42,7 +42,7 @@ Before work or sensitive technical discussions begin:
 - **Client Service Agreement:** Execution of `legal/CLIENT_SERVICE_AGREEMENT.md` covering service scope, IP rights (`legal/INTELLECTUAL_PROPERTY_POLICY.md`), liability, and warranty terms.
 
 ### Step 4: Requirement Gathering & Asset Collection
-- **Asset Intake:** Client provides necessary assets (brand guidelines, logos, content, API credentials, third-party integrations).
+- **Asset Intake:** Client provides necessary assets (brand guidelines, logos, content, and third-party integration details). API credentials must be sent only through the approved secure-transfer process and never through email, Slack, or messaging groups.
 - **Communication Channel Setup:** Establish official project communication channels (Email, Slack, or designated messaging group).
 - **Key Contacts Identified:**
   - **B2C Solution Leads:** Om Harde (Founder), Purvesh Bhadale (Co-Founder)

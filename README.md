@@ -118,7 +118,7 @@ Standards for professional conduct, system usage, and ethical alignment:
 
 ## 📄 Public Templates Disclaimer
 
-Documents provided as templates or general policy frameworks are for reference and operational governance. A template does **not** automatically constitute a legally executed agreement until formally accepted or signed by authorized representatives of B2C Solution and the Client.
+Documents provided as templates or general policy frameworks are for reference and operational governance. A bilateral client-agreement template does **not** constitute a legally executed agreement until formally accepted or signed by authorized representatives of B2C Solution and the Client. General policies and terms-of-service documents are not subject to this bilateral signature requirement and apply according to their own adoption or acceptance provisions.
 
 ---
 
