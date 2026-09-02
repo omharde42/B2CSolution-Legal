@@ -1,8 +1,21 @@
-# B2C Solution — Legal & Governance
+# B2C Solution — Legal, Governance & Business Foundation
 
-Official public repository for the legal, governance, compliance, security, intellectual property, and operational documentation of **B2C Solution**.
+Official repository for the legal, governance, compliance, security, intellectual property, and operational documentation of **B2C Solution**.
 
-This repository exists to provide transparency, establish documented standards, and maintain a structured foundation for the continued development and expansion of B2C Solution.
+This repository serves as a practical, transparent, and structured documentation foundation for B2C Solution as an early-stage digital solutions startup based in Pune, Maharashtra, India.
+
+---
+
+## 🏢 Company Information
+
+- **Organization:** B2C Solution
+- **Founder:** Om Harde (`omharde42-dev`)
+- **Co-Founder:** Purvesh Bhadale
+- **Social Media Handler:** Raj Bonlawar
+- **Location:** Pune, Maharashtra, India
+- **Email:** b2csolution2436@gmail.com
+- **Website:** https://b2csolutionseller.lovable.app
+- **Tax / Corporate Registration:** Not provided / To be updated upon legal incorporation/registration.
 
 ---
 
@@ -10,205 +23,119 @@ This repository exists to provide transparency, establish documented standards, 
 
 B2C Solution is committed to operating with clear policies, documented processes, responsible data practices, intellectual property protection, and appropriate legal and security standards.
 
-This repository serves as the central public documentation hub for those standards.
-
-It may contain:
-
-- Legal policies
-- Terms and conditions
-- Privacy documentation
-- Intellectual property policies
-- Security policies
-- Governance documentation
-- Compliance information
-- Public legal templates
-- Third-party license information
-- Operational standards
+This repository serves as the central public documentation hub for those standards, keeping governance simple, effective, and appropriate for an early-stage startup.
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-B2CSolution-Legal/
+B2C-Solution-Foundation/
+│
+├── README.md
 │
 ├── legal/
-│   ├── terms-and-conditions/
-│   ├── privacy/
-│   ├── refunds/
-│   └── other/
-│
-├── governance/
-│   ├── company-governance/
-│   ├── code-of-conduct/
-│   └── organizational-policies/
-│
-├── compliance/
-│   └── compliance-framework/
-│
-├── intellectual-property/
-│   ├── ip-policy/
-│   ├── licensing/
-│   └── third-party-licenses/
+│   ├── TERMS_OF_SERVICE.md
+│   ├── TERMS_AND_CONDITIONS.md
+│   ├── PRIVACY_POLICY.md
+│   ├── CLIENT_SERVICE_AGREEMENT.md
+│   ├── NDA_CONFIDENTIALITY_AGREEMENT.md
+│   ├── INTELLECTUAL_PROPERTY_POLICY.md
+│   ├── INTELLECTUAL_PROPERTY_ASSIGNMENT.md
+│   ├── REFUND_AND_CANCELLATION_POLICY.md
+│   ├── THIRD_PARTY_LICENSES.md
+│   └── COOKIE_POLICY.md
 │
 ├── security/
-│   ├── security-policy/
-│   └── responsible-disclosure/
+│   ├── SECURITY_POLICY.md
+│   ├── RESPONSIBLE_DISCLOSURE.md
+│   ├── ACCESS_CONTROL_POLICY.md
+│   └── INCIDENT_RESPONSE_POLICY.md
 │
-├── templates/
-│   ├── client-agreement/
-│   ├── nda/
-│   └── other/
+├── business/
+│   ├── QUOTATION_TEMPLATE.md
+│   ├── INVOICE_TERMS.md
+│   ├── CLIENT_ONBOARDING_PROCESS.md
+│   └── PROJECT_DELIVERY_PROCESS.md
 │
-└── README.md
+└── governance/
+    ├── CODE_OF_CONDUCT.md
+    ├── CONFLICT_OF_INTEREST_POLICY.md
+    ├── ACCEPTABLE_USE_POLICY.md
+    └── CONTRIBUTING.md
 ```
-
-The exact structure may evolve as B2C Solution expands.
 
 ---
 
 ## ⚖️ Legal Documentation
 
-The documents published here describe the policies and standards applicable to B2C Solution and its services.
+The documents published here describe the policies and standards applicable to B2C Solution and its services:
 
-Where a document is intended for customers or users, the applicable version published through the relevant official B2C Solution service or website takes precedence.
-
-Legal documents may be updated when business operations, applicable laws, services, or compliance requirements change.
-
----
-
-## 🔐 Security & Privacy
-
-B2C Solution treats security and privacy as important parts of its operations.
-
-Public documentation may include information about:
-
-- Data handling principles
-- Security practices
-- Responsible disclosure
-- Access management
-- Information protection
-- Privacy practices
-- Third-party services
-
-**Never submit passwords, API keys, private credentials, personal identity documents, or confidential client information through this repository.**
-
-For security-related matters, follow the responsible-disclosure process described in the repository's security documentation.
+- **`legal/TERMS_OF_SERVICE.md`** & **`legal/TERMS_AND_CONDITIONS.md`**: General terms governing site and service usage.
+- **`legal/PRIVACY_POLICY.md`** & **`legal/COOKIE_POLICY.md`**: Principles for personal data handling, cookies, and user privacy rights.
+- **`legal/CLIENT_SERVICE_AGREEMENT.md`**: Standard contract framework for client engagements.
+- **`legal/NDA_CONFIDENTIALITY_AGREEMENT.md`**: Mutual non-disclosure agreement for protectable business information.
+- **`legal/INTELLECTUAL_PROPERTY_POLICY.md`** & **`legal/INTELLECTUAL_PROPERTY_ASSIGNMENT.md`**: Framework for IP ownership, assignments, and contributor rights.
+- **`legal/REFUND_AND_CANCELLATION_POLICY.md`**: Clear guidelines on cancellations, deposits, and refunds.
+- **`legal/THIRD_PARTY_LICENSES.md`**: Tracking and compliance guidelines for third-party and open-source software.
 
 ---
 
-## © Intellectual Property
+## 🔐 Security Policies
 
-Unless explicitly stated otherwise:
+B2C Solution prioritizes application security, safe data handling, and responsible infrastructure access:
 
-- B2C Solution documentation is protected by applicable intellectual-property laws.
-- B2C Solution trademarks, logos, branding, and proprietary materials remain the property of their respective owners.
-- Third-party software, libraries, assets, trademarks, and content remain subject to their respective licenses.
-- Publication of a document in this repository does not automatically transfer ownership of B2C Solution intellectual property.
+- **`security/SECURITY_POLICY.md`**: Overview of technical security controls, data protection, and secure development.
+- **`security/RESPONSIBLE_DISCLOSURE.md`**: Coordinated vulnerability disclosure guidelines for security researchers.
+- **`security/ACCESS_CONTROL_POLICY.md`**: Rules for administrative credentials, MFA, least-privilege access, and offboarding.
+- **`security/INCIDENT_RESPONSE_POLICY.md`**: Four-stage lifecycle for detecting, containing, and recovering from security incidents.
 
-Refer to the relevant licensing and intellectual-property documentation for specific terms.
-
----
-
-## 📄 Public Templates
-
-Some documents may be provided as templates for demonstration, reference, or operational purposes.
-
-A template does **not** automatically constitute a legally binding agreement.
-
-Before using any agreement for an actual transaction, it should be reviewed and adapted to the specific circumstances and applicable law.
+For security-related reports, contact **b2csolution2436@gmail.com**.
 
 ---
 
-## 🔒 Confidential Information
+## 💼 Business & Operations
 
-This repository is intended for **public documentation**.
+Standard operational templates and workflow documentation:
 
-The following information should **not** be published here:
-
-- Signed contracts
-- Client personal information
-- Confidential project requirements
-- Private financial information
-- Bank information
-- Government identity documents
-- Private founder information
-- Passwords or API credentials
-- Security secrets
-- Confidential business strategies
-
-Confidential company records are maintained separately through appropriate private systems.
+- **`business/QUOTATION_TEMPLATE.md`**: Standard proposal and project cost estimation template.
+- **`business/INVOICE_TERMS.md`**: Standard milestone payment schedules, accepted payment methods, and billing dispute processes.
+- **`business/CLIENT_ONBOARDING_PROCESS.md`**: Step-by-step onboarding lifecycle from inquiry to project kickoff.
+- **`business/PROJECT_DELIVERY_PROCESS.md`**: Delivery lifecycle from sprint execution to staging, testing, deployment, and 30-day warranty.
 
 ---
 
-## 🏢 Business Documentation Philosophy
+## 🏛️ Governance & Conduct
 
-B2C Solution follows a documentation-first approach:
+Standards for professional conduct, system usage, and ethical alignment:
 
-```text
-Clear Rules
-     ↓
-Documented Processes
-     ↓
-Consistent Execution
-     ↓
-Accountability
-     ↓
-Scalability
-```
-
-The objective is to build systems that allow B2C Solution to operate reliably as the organization grows beyond its initial network.
+- **`governance/CODE_OF_CONDUCT.md`**: Behavioral expectations for team members, clients, and community participants.
+- **`governance/CONFLICT_OF_INTEREST_POLICY.md`**: Guidelines for identifying, disclosing, and mitigating conflicts of interest.
+- **`governance/ACCEPTABLE_USE_POLICY.md`**: Permissible usage of B2C Solution systems and digital assets.
+- **`governance/CONTRIBUTING.md`**: Guidelines for contributing code or documentation.
 
 ---
 
-## 🔄 Document Updates
+## 📄 Public Templates Disclaimer
 
-Legal and governance documents may be revised as B2C Solution develops.
-
-When appropriate, changes should be documented through:
-
-- Git history
-- Pull requests
-- Version information
-- Changelogs
-- Effective dates
-
-Users and clients should always refer to the currently applicable version of a document.
+Documents provided as templates or general policy frameworks are for reference and operational governance. A bilateral client-agreement template does **not** constitute a legally executed agreement until formally accepted or signed by authorized representatives of B2C Solution and the Client. General policies and terms-of-service documents are not subject to this bilateral signature requirement and apply according to their own adoption or acceptance provisions.
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Legal Disclaimer
 
-The information contained in this repository is provided for documentation and transparency purposes.
+The information contained in this repository is provided for documentation, transparency, and operational guidance purposes.
 
-Nothing in this repository should be interpreted as legal, financial, tax, or professional advice.
-
-Applicable requirements may vary depending on the jurisdiction, service, transaction, customer, and business structure.
-
-B2C Solution may obtain professional legal, accounting, tax, or compliance advice when required.
+Nothing in this repository should be interpreted as legal, financial, tax, or professional advice. Applicable legal requirements may vary based on jurisdiction, business structure, and specific commercial contracts. B2C Solution obtains qualified professional legal and accounting advice where required.
 
 ---
 
 ## 📞 Contact
 
-For general business or documentation-related enquiries, use the official B2C Solution communication channels.
-
-For security matters, use the security contact or responsible-disclosure process specified in the repository.
-
----
-
-## 🌐 B2C Solution
-
-**Building practical digital solutions with documented standards, responsible practices, and scalable systems.**
-
----
-
-### Repository Status
-
-**Status:** Active  
-**Documentation Type:** Public  
-**Maintained By:** B2C Solution  
-**Primary Purpose:** Legal, Governance & Compliance Documentation
+- **Email:** b2csolution2436@gmail.com
+- **Website:** https://b2csolutionseller.lovable.app
+- **GitHub:** omharde42-dev
+- **Location:** Pune, Maharashtra, India
 
 ---
 
